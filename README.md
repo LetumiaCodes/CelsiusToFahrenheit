@@ -7,5 +7,5 @@ curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 Compile the source code by running this command in terminal:
 rustc CelsiusToFahrenheit.rs 
 
-Run code:
+Run code by enetring the command in terminal:
 ./CelsiusToFahrenheit
