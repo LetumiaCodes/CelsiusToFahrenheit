@@ -1,6 +1,4 @@
 # CelsiusToFahrenheit
-A simple program that converts Celsius To Fahrenheit
-
 Linux Setup:
 
 Install rust by running this command in terminal: 
